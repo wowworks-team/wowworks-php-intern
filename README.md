@@ -1,4 +1,6 @@
 # wowworks-php-intern
+![Wowworks logo](https://wowworks.ru/image/logo-wowworks.svg)
+
 Wowworks internship program for PHP developers.
 
 ## Что это?
