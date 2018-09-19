@@ -22,9 +22,10 @@ Wowworks internship program for PHP developers.
 * Tests and codeception.
 
 ## Дипломная работа
+В качестве дипломной работы идет тестовое задание для разработчиков:
 https://github.com/wowworks-team/wowworks-php-developer-test-task
 
-## Тестовое задание
+## Тестовое задание на стажировку
 Нужно предоставить ссылку на git/mercurial репозиторий на github/bitbucket со ссылкой на hello world приложение на yii2.
 
 http://www.yiiframework.com/doc-2.0/guide-start-hello.html
