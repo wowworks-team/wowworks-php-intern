@@ -45,4 +45,4 @@ https://habrahabr.ru/post/268615/
 | 27.10.2018, 18:30 | Старт занятий |
 
 ## Вопросы
-Вопросы можно задавать на it@wowworks.ru.
+Вопросы можно задавать на it@wowworks.ru и в группе Telegram https://t.me/joinchat/Ddlx6RD7szolRFec0CLPaA.
